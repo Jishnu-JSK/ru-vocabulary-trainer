@@ -121,9 +121,7 @@ Nocturne/
 │   ├── css/
 │   │   └── style.css
 ├── images/
-│   │   └── soviet-bg.jpg
-│   │
-│   └── js/
+│     └── soviet-bg.jpg
 │
 └── README.md
 ```
